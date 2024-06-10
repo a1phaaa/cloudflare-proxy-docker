@@ -11,3 +11,7 @@
 **不过，使用CF反代需要准备好自己的域名，因为CF的域名在国内无法征程访问**
  
 ## 教程
+
+https://linux.do/t/topic/107726
+
+https://global.v2ex.com/t/1007922
